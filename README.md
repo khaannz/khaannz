@@ -1,4 +1,3 @@
-[![MasterHead]()]
 <h1>Hi 👋, I'm Mohd Muneer Khan</h1>
 <h3>Just trying to become an engineer.</h3>
 
