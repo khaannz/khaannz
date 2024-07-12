@@ -4,13 +4,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khaannz&label=Profile%20views&color=0e75b6&style=flat" alt="khaannz" /> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2851002/screenshots/9667092/media/09648e273e248e7cfd22ade4010b2a6e.gif">
 
-- 🔭 I’m currently working on **Android development**
+- 🔭 I’m currently working on **Data Streaming Using Kafka and Flink**
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning **Data Science**
 
-- 👯 I’m looking to collaborate on **Android development**
+- 👯 I’m looking to collaborate on **Data Science projects**
 
-- 💬 Ask me about **JAVA,C++,Adobe-XD,**
+- 💬 Ask me about **JAVA,C++,Adobe-XD,PYTHON**
 
 - 📫 How to reach me **khan2542001@gmail.com**
 
