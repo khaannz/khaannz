@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Data Science projects**
 
-- 💬 Ask me about **JAVA,C++,Adobe-XD,PYTHON**
+- 💬 Ask me about **PYTHON, AI Agents, Data Analysis**
 
 - 📫 How to reach me **khan2542001@gmail.com**
 
