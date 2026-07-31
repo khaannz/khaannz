@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Data Science**
 
-- 👯 I’m looking to collaborate on **Data Science projects**
+- 👯 I’m looking to collaborate on **Agentic AI, Data Engineering and Data Science projects**
 
 - 💬 Ask me about **PYTHON, AI Agents, Data Analysis**
 
